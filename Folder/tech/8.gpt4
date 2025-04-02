@@ -1,0 +1,25 @@
+NVIDIA has recently intensified its involvement in quantum computing through several strategic initiatives:​
+
+NVIDIA Accelerated Quantum Research Center (NVAQC): In March 2025, NVIDIA announced the establishment of the NVAQC in Boston. This center aims to advance quantum computing by integrating quantum processors with AI supercomputers, collaborating with leading hardware and software developers to enhance quantum architectures and algorithms. ​
+Barron's
++2
+NVIDIA Newsroom
++2
+NVIDIA
++2
+
+NVIDIA DGX Quantum: NVIDIA introduced the DGX Quantum system, which combines the NVIDIA Grace Hopper Superchip with Quantum Machines' OPX+ quantum control platform. This integration facilitates real-time quantum error correction decoding and AI-driven quantum processor calibration, effectively bridging quantum and classical computing. ​
+NVIDIA
++2
+NVIDIA Newsroom
++2
+Quantum Machines
++2
+
+Collaborations with Quantum Computing Firms: NVIDIA is partnering with companies like Rigetti Computing and Quantum Machines to apply AI in automating quantum computer calibration. These collaborations aim to enhance the efficiency and scalability of quantum systems. ​
+Forbes
+
+CUDA-Q Platform: NVIDIA's CUDA-Q is an open-source programming model and compiler toolchain designed for high-performance integration of CPUs, GPUs, and quantum processing units (QPUs). This platform supports the development of hybrid quantum-classical applications, accelerating research in quantum computing. ​
+NVIDIA
+
+While NVIDIA is not manufacturing standalone quantum computers, its focus is on creating systems and tools that integrate quantum computing capabilities with classical supercomputing, thereby advancing the field through strategic partnerships and innovative technologies
