@@ -1,0 +1,26 @@
+NVIDIA has recently introduced a new quantum computing system called the NVIDIA DGX Quantum. This system represents a significant advancement in quantum-classical computing, offering several innovative features and capabilities:
+
+Revolutionary Architecture:
+
+The NVIDIA DGX Quantum is designed to provide a revolutionary architecture for researchers working in high-performance and low-latency quantum-classical computing. It combines the power of NVIDIA's accelerated computing platform with Quantum Machines' advanced quantum control platform, OPX 4950.
+GPU-Accelerated Quantum Computing:
+
+This system is the world's first GPU-accelerated quantum computing platform. It integrates NVIDIA Grace Hopper Superchips with the Quantum Machines OPX control system, delivering real-time, GPU-accelerated quantum error correction, calibration, and control 5051.
+Hybrid Algorithms and Applications:
+
+The DGX Quantum is capable of running hybrid algorithms that combine quantum and classical computing. This enables researchers to build extraordinarily powerful applications that leverage the strengths of both computing paradigms 4952.
+Scalability:
+
+The system is designed to be QPU-agnostic and can scale with both quantum and classical compute requirements. It supports configurations ranging from a few to thousands of qubits and from a single GPU to an accelerated quantum supercomputer 5051.
+Sub-Microsecond Latency:
+
+The DGX Quantum offers submicrosecond latency between the quantum control system and the GPU, ensuring efficient and real-time processing for quantum computations 50.
+CUDA Quantum Programming Model:
+
+The system utilizes the CUDA Quantum open-source programming model, which allows researchers to develop applications that seamlessly integrate quantum computing with state-of-the-art classical computing 49.
+Collaborative Research:
+
+NVIDIA is collaborating with various partners, including Quantum Machines and leading universities, to advance the development of quantum computing architectures and algorithms. This collaboration aims to drive innovations in quantum-classical computing and make quantum computing more accessible to researchers 5354.
+Integration with AI Supercomputers:
+
+The DGX Quantum is part of NVIDIA's broader efforts to integrate quantum processing units (QPUs) with AI supercomputers. This integration is expected to transform industries and accelerate scientific discovery by enabling groundbreaking advancements in quantum computing 5
