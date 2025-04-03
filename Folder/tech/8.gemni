@@ -1,0 +1,19 @@
+It's important to clarify that NVIDIA is not building standalone quantum computers in the traditional sense. Instead, they are heavily invested in developing the infrastructure and technologies that will accelerate quantum computing development. This involves creating powerful classical computing systems that work in conjunction with quantum processors.   
+
+Here's a breakdown of NVIDIA's involvement in the quantum computing space:
+
+NVIDIA Accelerated Quantum Research Center (NVAQC):
+This center is designed to advance quantum computing research by integrating quantum processors with AI supercomputers.   
+The goal is to overcome significant challenges in quantum computing, such as quantum error correction, device control, and algorithm development.   
+NVIDIA is collaborating with leading quantum computing companies and academic institutions at the NVAQC.   
+NVIDIA DGX Quantum:
+This is a reference architecture developed by NVIDIA and Quantum Machines, designed to tightly integrate quantum and classical hardware.   
+It's intended to provide the classical acceleration needed to support quantum computing research and development.   
+This system helps to create a low latency connection between classic super computers and quantum processing units.   
+CUDA-Q:
+This is NVIDIA's open-source platform for hybrid quantum-classical computing.   
+It allows developers to program both quantum and classical processors within a single environment.   
+Nvidia is providing tools, and libraries to help with the development of quantum computing.   
+Focus on Hybrid Quantum-Classical Computing:
+NVIDIA's strategy is centered on the idea that quantum computers will need to work in tandem with classical supercomputers to solve complex problems.
+Their technology is designed to facilitate this integration.
