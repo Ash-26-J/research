@@ -1,0 +1,9 @@
+NVIDIA has been making significant strides in the field of quantum computing. Their latest endeavors include the development of a unified computing platform for speeding breakthroughs in quantum research and development across disciplines ¹.
+
+One of their notable achievements is the announcement of the NVIDIA Quantum Optimized Device Architecture (QODA), now known as CUDA Quantum, which aims to make quantum computing more accessible by creating a coherent hybrid quantum-classical programming model ¹.
+
+In terms of hardware, NVIDIA has been working on the NVIDIA Grace Hopper Superchip, which combines the NVIDIA Hopper architecture GPUs with the NVIDIA Grace CPUs. This superchip is designed for giant-scale quantum simulation workloads and features high-speed, low-latency NVIDIA NVLink-C2C interconnect, making it optimally suited to link to quantum processors ².
+
+Additionally, NVIDIA has been collaborating with various organizations, such as SEEQC, to advance the field of quantum computing. SEEQC's digital chip architecture integrated with NVIDIA GPUs will enable error-corrected quantum supercomputing and pave the way for enterprise-grade quantum computing ³.
+
+NVIDIA's quantum computing ecosystem is expanding rapidly, with a vast array of research running on NVIDIA GPUs. The company is also providing developers with robust tools, including the NVIDIA CUDA Quantum platform, to accelerate quantum computing workflows ².
