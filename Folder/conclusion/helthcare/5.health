@@ -22,3 +22,12 @@ Interpretation of Similarity Scores (Cosine Similarity):
 - 1.0: Identical content
 - Closer to 1.0: High similarity
 - Closer to 0.0: Low similarity (little to no overlap in important terms)
+
+considering the results 0.5 and higher as simialar
+gemni is   not similar to gpt-4, gpt-3.5,llama-2,mistral
+gpt-3.5 is   similar to gemni but not similar to  llama-2, gpt-4,mistraland 
+gpt -4 is not  similar to  llama2,gpt-3.5,gemni and mistral
+llama2 is not simialr to gemni,gpt-3.5, gpt-4, mistral
+mistral is not similar to gemini, gpt-3.5,gpt-4,llama2
+
+therefore only gpt-3.5 is similar to gemni   
