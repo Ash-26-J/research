@@ -1,0 +1,23 @@
+Enter the path for file 1: C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\research-main\Folder\sports\7.gemni
+  
+Enter the path for file 2: C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\research-main\Folder\sports\7.gpt3.
+5  
+Enter the path for file 3: C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\research-main\Folder\sports\7.gpt4 
+Enter the path for file 4: C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\research-main\Folder\sports\7.llama
+2  
+Enter the path for file 5: C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\research-main\Folder\sports\7.misra
+l  
+
+Similarity Matrix:
+--------------------------------------------------------------------------------------------
+        7.gemni        7.gpt3.5       7.gpt4         7.llama2       7.misral
+7.gemni 1.0000         0.0860         0.0890         0.0968         0.0926
+7.gpt3.50.0700         1.0000         0.1118         0.0294         0.0486
+7.gpt4  0.0586         0.0904         1.0000         0.0432         0.0668
+7.llama20.1465         0.0545         0.0992         1.0000         0.0927
+7.misral0.1161         0.0748         0.1270         0.0768         1.0000
+
+Interpretation of Similarity Scores (Cosine Similarity):
+- 1.0: Identical content
+- Closer to 1.0: High similarity
+- Closer to 0.0: Low similarity (little to no overlap in important terms)
