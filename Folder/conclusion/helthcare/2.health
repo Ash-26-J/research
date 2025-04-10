@@ -1,0 +1,25 @@
+PS C:\Users\ANIL KUMAR> & "C:/Users/ANIL KUMAR/AppData/Local/Programs/Python/Python313/python.exe" "c:/Users/ANIL KUMAR/OneDrive/Documents/vs files/jp/comp2.py"
+Enter the path for file 1: C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\research-main\Folder\heltcare\2.gemni1 
+Invalid file path. Please try again.
+Enter the path for file 1: C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\research-main\Folder\heltcare\2.gemni1
+Invalid file path. Please try again.
+Enter the path for file 1: C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\research-main\Folder\heltcare\2.gemni  
+Enter the path for file 2: C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\research-main\Folder\heltcare\2.gpt3.5  
+Enter the path for file 3: C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\research-main\Folder\heltcare\2.gpt4  
+Enter the path for file 4: C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\research-main\Folder\heltcare\2.llama2  
+Enter the path for file 5: C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\research-main\Folder\heltcare\2.misral  
+
+Similarity Matrix:
+--------------------------------------------------------------------------------------------
+        2.gemni        2.gpt3.5       2.gpt4         2.llama2       2.misral
+2.gemni 1.0000         0.0390         0.0527         0.0893         0.0994
+2.gpt3.50.3862         1.0000         0.3286         0.1900         0.2138
+2.gpt4  0.1121         0.0706         1.0000         0.0286         0.0308
+2.llama20.3124         0.0671         0.0469         1.0000         0.3167
+2.misral0.5362         0.1165         0.0781         0.4886         1.0000
+
+Interpretation of Similarity Scores (Cosine Similarity):
+- 1.0: Identical content
+- Closer to 1.0: High similarity
+- Closer to 0.0: Low similarity (little to no overlap in important terms)
+  
