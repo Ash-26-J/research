@@ -1,0 +1,19 @@
+Enter the path for file 1: C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\research-main\Folder\tech\9.gemni  
+Enter the path for file 2: C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\research-main\Folder\tech\9.gpt3.5  
+Enter the path for file 3: C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\research-main\Folder\tech\9.gpt4  
+Enter the path for file 4: C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\research-main\Folder\tech\9.llama2  
+Enter the path for file 5: C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\research-main\Folder\tech\9.misral  
+
+Similarity Matrix:
+--------------------------------------------------------------------------------------------
+        9.gemni        9.gpt3.5       9.gpt4         9.llama2       9.misral
+9.gemni 1.0000         0.0640         0.1597         0.0334         0.1204
+9.gpt3.50.1075         1.0000         0.3380         0.0274         0.1769
+9.gpt4  0.0192         0.0241         1.0000         0.0081         0.0367
+9.llama20.0486         0.0238         0.0984         1.0000         0.0408
+9.misral0.0706         0.0617         0.1792         0.0164         1.0000
+
+Interpretation of Similarity Scores (Cosine Similarity):
+- 1.0: Identical content
+- Closer to 1.0: High similarity
+- Closer to 0.0: Low similarity (little to no overlap in important terms)
