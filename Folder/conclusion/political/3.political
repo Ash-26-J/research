@@ -20,6 +20,8 @@ Interpretation of Similarity Scores (Cosine Similarity):
 - Closer to 1.0: High similarity
 - Closer to 0.0: Low similarity (little to no overlap in important terms)
 
+considering the results 0.5 and higher as simialar
+
 
 inference :
 result generated is:
