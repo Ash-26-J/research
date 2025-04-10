@@ -1,0 +1,22 @@
+PS C:\Users\ANIL KUMAR> & "C:/Users/ANIL KUMAR/AppData/Local/Programs/Python/Python313/python.exe" "c:/Users/ANIL KUMAR/OneDrive/Documents/vs files/jp/comp2.py"
+Enter the path for file 1: 
+Invalid file path. Please try again.
+Enter the path for file 1: C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\research-main\Folder\heltcare\1.gemni  
+Enter the path for file 2: C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\research-main\Folder\heltcare\1.gpt3.5  
+Enter the path for file 3: C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\research-main\Folder\heltcare\1.gpt4  
+Enter the path for file 4: C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\research-main\Folder\heltcare\1.llama2  
+Enter the path for file 5: C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\research-main\Folder\heltcare\1..misral  
+
+Similarity Matrix:
+--------------------------------------------------------------------------------------------
+        1.gemni        1.gpt3.5       1.gpt4         1.llama2       1..misral
+1.gemni 1.0000         0.0138         0.0558         0.0742         0.1371
+1.gpt3.50.4611         1.0000         0.2810         0.6822         0.2344
+1.gpt4  0.1902         0.0286         1.0000         0.0552         0.0363
+1.llama20.3689         0.1013         0.0805         1.0000         0.1496
+1..misral0.7512         0.0384         0.0583         0.1649         1.0000
+
+Interpretation of Similarity Scores (Cosine Similarity):
+- 1.0: Identical content
+- Closer to 1.0: High similarity
+- Closer to 0.0: Low similarity (little to no overlap in important terms)
