@@ -1,0 +1,20 @@
+ments/vs files/jp/comp2.py"
+Enter the path for file 1: C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\research-main\Folder\tech\4.gemni  
+Enter the path for file 2: C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\research-main\Folder\tech\4.gpt3.5  
+Enter the path for file 3: C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\research-main\Folder\tech\4.gpt4  
+Enter the path for file 4: C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\research-main\Folder\tech\4.llama2  
+Enter the path for file 5: C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\research-main\Folder\tech\4.misral  
+
+Similarity Matrix:
+--------------------------------------------------------------------------------------------
+        4.gemni        4.gpt3.5       4.gpt4         4.llama2       4.misral
+4.gemni 1.0000         0.0279         0.0668         0.0492         0.3891
+4.gpt3.50.0765         1.0000         0.2746         0.0850         0.1435
+4.gpt4  0.0976         0.1463         1.0000         0.0668         0.1021
+4.llama20.1129         0.0711         0.1049         1.0000         0.0733
+4.misral0.0871         0.0117         0.0157         0.0072         1.0000
+
+Interpretation of Similarity Scores (Cosine Similarity):
+- 1.0: Identical content
+- Closer to 1.0: High similarity
+- Closer to 0.0: Low similarity (little to no overlap in important terms)
