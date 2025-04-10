@@ -1,0 +1,21 @@
+
+PS C:\Users\ANIL KUMAR> & "C:/Users/ANIL KUMAR/AppData/Local/Programs/Python/Python313/python.exe" "c:/Users/ANIL KUMAR/OneDrive/Documents/vs files/jp/comp2.py"
+Enter the path for file 1: C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\research-main\Folder\ploitical\3.gemni  
+Enter the path for file 2: C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\research-main\Folder\ploitical\3.gpt3.5  
+Enter the path for file 3: C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\research-main\Folder\ploitical\3.gpt-4  
+Enter the path for file 4: C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\research-main\Folder\ploitical\3.llama2  
+Enter the path for file 5: C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\research-main\Folder\ploitical\3.mistral  
+
+Similarity Matrix:
+--------------------------------------------------------------------------------------------
+        3.gemni        3.gpt3.5       3.gpt-4        3.llama2       3.mistral
+3.gemni 1.0000         0.2190         0.1030         0.1128         0.2841
+3.gpt3.50.1746         1.0000         0.0353         0.0949         0.1577
+3.gpt-4 0.0046         0.0020         1.0000         0.0070         0.0070
+3.llama20.2210         0.2331         0.3108         1.0000         0.2459
+3.mistral0.1737         0.1209         0.0963         0.0768         1.0000
+
+Interpretation of Similarity Scores (Cosine Similarity):
+- 1.0: Identical content
+- Closer to 1.0: High similarity
+- Closer to 0.0: Low similarity (little to no overlap in important terms)
