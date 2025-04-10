@@ -1,0 +1,35 @@
+Enter the path for file 1: & "C:/Users/ANIL KUMAR/AppData/Local/Programs/Python/Python313/python.exe" "c:/Users/ANIL KUMAR/OneDrive/Documents/vs files/jp/comp2.py"
+Invalid file path. Please try again.
+Enter the path for file 1: C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\1.gemni  
+Enter the path for file 2: C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\1.gpt-3.5  
+Enter the path for file 3: C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\1.gpt-4  
+Enter the path for file 4: C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\1.llama2  
+Enter the path for file 5: C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\1.mistral  
+
+Similarity Matrix:
+--------------------------------------------------------------------------------------------
+        1.gemni        1.gpt-3.5      1.gpt-4        1.llama2       1.mistral
+1.gemni 1.0000         0.1036         0.6062         0.1746         0.1486
+1.gpt-3.50.0930         1.0000         0.5014         0.0634         0.0506
+1.gpt-4 0.0355         0.0327         1.0000         0.0447         0.0607
+1.llama20.0381         0.0154         0.1664         1.0000         0.0594
+1.mistral0.0279         0.0106         0.1947         0.0513         1.0000
+
+Interpretation of Similarity Scores (Cosine Similarity):
+- 1.0: Identical content
+- Closer to 1.0: High similarity
+- Closer to 0.0: Low similarity (little to no overlap in important terms)
+
+considering the results 0.5 and higher as simialar
+
+inference :
+
+gemni is similar to gpt-4 and  not similar to gpt-3.5,llama-2,mistral
+gpt-3.5 is similar t0  gpt-4 and not simialar to llama-2,mistral
+gpt -4 is not  similar to  llama2,gpt-3.5,gemni and mistral
+llama2 is not simialr to gemni,gpt-3.5, gpt-4, mistral
+mistral is not similar to gemini,gpt-3.5,gpt-4,llama2
+
+therefore gemni and gpt-3.5 should  results similar to that of gpt-4 
+
+
