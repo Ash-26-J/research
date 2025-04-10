@@ -1,0 +1,28 @@
+ KUMAR/OneDrive/Documents/vs files/jp/comp2.py"
+Enter the path for file 1: "C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\research-main\Folder\heltcare\4.gemni"
+Invalid file path. Please try again.
+Enter the path for file 1: C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\research-main\Folder\heltcare\4.gem
+ni  
+Enter the path for file 2: C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\research-main\Folder\heltcare\4.gpt
+3.5  
+Enter the path for file 3: C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\research-main\Folder\heltcare\4.gpt
+4  
+Enter the path for file 4: C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\research-main\Folder\heltcare\4.lla
+ma2  
+Enter the path for file 5: C:\Users\ANIL KUMAR\OneDrive\Documents\vs files\jp\research-main\Folder\heltcare\4.mis
+ral  
+
+Similarity Matrix:
+--------------------------------------------------------------------------------------------
+        4.gemni        4.gpt3.5       4.gpt4         4.llama2       4.misral
+4.gemni 1.0000         0.0493         0.0536         0.1085         0.0684
+4.gpt3.50.3417         1.0000         0.1956         0.1968         0.0524
+4.gpt4  0.1871         0.0986         1.0000         0.1432         0.0902
+4.llama20.1097         0.0287         0.0415         1.0000         0.0349
+4.misral0.2417         0.0267         0.0912         0.1220         1.0000
+
+Interpretation of Similarity Scores (Cosine Similarity):
+- 1.0: Identical content
+- Closer to 1.0: High similarity
+- Closer to 0.0: Low similarity (little to no overlap in important terms)
+PS C:\Users\ANIL KUMAR> 
