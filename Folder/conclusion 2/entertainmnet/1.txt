@@ -5,3 +5,17 @@ Jaccard Similarity Matrix:
 1.gpt4  0.1246  0.1273  1.0000  0.0928  0.1193
 1.llama2        0.0915  0.1116  0.0928  1.0000  0.1221
 1.misral        0.1569  0.1787  0.1193  0.1221  1.0000
+
+considering the results 0.5 and higher as simialar
+
+
+inference :
+result generated is:
+
+gemni is   not similar to gpt-4, gpt-3.5,llama-2,mistral
+gpt-3.5 is not similar t0  gpt-4, llama-2,mistral
+gpt -4 is not  similar to  llama2,gpt-3.5,gemni and mistral
+llama2 is not simialr to gemni,gpt-3.5, gpt-4, mistral
+mistral is not similar to gemini,gpt-3.5,gpt-4,llama2
+
+therefore none of the model have simailar results
