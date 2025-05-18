@@ -1,0 +1,7 @@
+Correlation-Based Similarity Matrix (Pearson Correlation):
+        4.gemni 4.gpt3.5        4.gpt4  4.lllama2       4.misral
+4.gemni 1.0000  0.3424  0.1943  0.5079  0.5689
+4.gpt3.5        0.3424  1.0000  0.8283  0.3790  0.4492
+4.gpt4  0.1943  0.8283  1.0000  0.3115  0.3324
+4.lllama2       0.5079  0.3790  0.3115  1.0000  0.5006
+4.misral        0.5689  0.4492  0.3324  0.5006  1.0000
