@@ -1,0 +1,7 @@
+Simple Matching Coefficient Similarity Matrix:
+        4.gemni 4.gpt3.5        4.gpt4  4.lllama2       4.misral
+4.gemni 1.0000  0.4966  0.4564  0.5302  0.7315
+4.gpt3.5        0.4966  1.0000  0.6644  0.3758  0.5235
+4.gpt4  0.4564  0.6644  1.0000  0.4161  0.4832
+4.lllama2       0.5302  0.3758  0.4161  1.0000  0.5168
+4.misral        0.7315  0.5235  0.4832  0.5168  1.0000
