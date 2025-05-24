@@ -20,10 +20,14 @@ We collected the results of the prompts from 5 different field .Each field we gi
 We compared the dataset that is the prompts from different LLMs for each field using a simple Python program which showed how similar the results of the prompts are keeping 0.5 as threshold value ,anything > 0.5 it is considered as simialr
 
 [cosine similarity](https://github.com/Ash-26-J/research/blob/main/Folder/comp.py)
-[jaccard similarity]()
-[correlation based similarity]()
-[correlation simialrity]()
-[Tanimoto similarity]()
+[jaccard similarity](https://github.com/Ash-26-J/research/blob/main/Folder/jaccard.py)
+[Simple matching coefficent similarity](https://github.com/Ash-26-J/research/blob/main/Folder/Simple%20matching%20coefficent.py)
+[correlation simialrity](https://github.com/Ash-26-J/research/blob/main/Folder/correlation-based.py)
+[Tanimoto similarity](https://github.com/Ash-26-J/research/blob/main/Folder/Tanimoto%20coefficent.py)
+
+### Probablity calculator
+
+[Probablity cal](https://github.com/Ash-26-J/research/blob/main/Folder/porbablity%20calculator.py)
 
 ### Conclusion 
 
